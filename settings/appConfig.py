@@ -1,0 +1,1 @@
+class DevConfig(object):    DEBUG = True    HOST = "0.0.0.0"    PORT = "5000"    SECRET_KEY = "dev"    FLASK_ENV = "development"    DATABASE = "recorder.db"

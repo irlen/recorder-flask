@@ -1,0 +1,1 @@
+from flask import Blueprintnav = Blueprint('nav',__name__)from .views import *
